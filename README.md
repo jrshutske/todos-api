@@ -1,6 +1,6 @@
 # Todos-API
 
-This is initially going to be a todo list rails API.
+This is initially going to be a todo list rails API for practicing with json web tokens.
 
 ## Getting Started
 
